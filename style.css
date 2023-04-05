@@ -1,0 +1,54 @@
+body{
+    background-color: #EA5455
+    ;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color:#002B5B;
+}
+.titulo1{
+    text-align: center;
+    color: #F9DBBB;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paragrafo{
+    text-align: center;
+    color: #F9F5EB;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.figura{
+    text-align: center;
+    width: 100;
+    height: 300px;
+}
+
+.legenda{
+    color: #F9F5EB;
+    font-size:x-small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    background-color: #002B5B;
+    color: #000000;
+    border: 10px;
+    width: 70%;
+    margin: 50px auto;
+    padding: 50px;
+     
+    border-style: groove;
+}
+
+.rodape{
+    text-align: center;
+    font-size:small;
+    color:#F9DBBB;
+}
